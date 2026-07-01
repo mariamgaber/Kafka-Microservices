@@ -7,14 +7,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="NotificationApplication" />
         <module name="ProductsMicroservice" />
+        <module name="NotificationMicroservice" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="NotificationApplication" options="-parameters" />
+      <module name="NotificationMicroservice" options="-parameters" />
       <module name="ProductsMicroservice" options="-parameters" />
     </option>
   </component>

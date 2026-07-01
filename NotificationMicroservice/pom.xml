@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.appsdeveloperblog.ws</groupId>
-	<artifactId>NotificationApplication</artifactId>
+	<artifactId>NotificationMicroservice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>NotificationApplication</name>
 	<description>Notification Application</description>
